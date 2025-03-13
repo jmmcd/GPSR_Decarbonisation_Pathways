@@ -1,4 +1,4 @@
-# GPSR_Decarbonisation_Pathways
+# GPSR Decarbonisation Pathways
 
 Genetic Programming Symbolic Regression for Modelling Decarbonisation Pathways in the Global Energy-Economy-Climate System
 
