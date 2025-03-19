@@ -17,11 +17,28 @@ The benefit of using a regression "model of the model" versus using the original
 
 The repository contains data exploration, data cleaning, and regression modelling, as well as output and interpretation of results.
 
+
 ## Authors
 
 * James McDermott, University of Galway
+* Iain Morrow, Actionable Models
+* James Glynn, Energy Systems Modelling Analytics
+
+
+## Acknowledgements
+
+This work was funded by [Actionable Models](https://www.linkedin.com/in/iain-morrow-36b5b9) via the European Digital Innovation Hub [FactoryXChange](https://www.factoryxchange.ie/), 2024-2025. FactoryXChange Reference Number: TICH252172. https://www.factoryxchange.ie/service-page/free-form-regression-modelling.
 
 
 ## Citation
 
-(Coming soon)
+To cite this research, this repository, or this code, please cite our GECCO 2025 poster:
+
+```
+@inproceedings{mcdermott2025gecco,
+  title={Symbolic Regression for Modelling Decarbonisation Pathways in the Global Energy-Economy-Climate System},
+  author={James McDermott and Iain Morrow and James Glynn and Panos Evangelos},
+  booktitle={Proceedings of the Companion Conference on Genetic and Evolutionary Computation},
+  year={2025}
+}
+```
