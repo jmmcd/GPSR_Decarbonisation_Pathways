@@ -20,14 +20,14 @@ The repository contains data exploration, data cleaning, and regression modellin
 
 ## Authors
 
-* James McDermott, University of Galway
-* Iain Morrow, Actionable Models
-* James Glynn, Energy Systems Modelling Analytics
+* [James McDermott](https://github.com/jmmcd), University of Galway
+* [Iain Morrow](https://www.linkedin.com/in/iain-morrow-36b5b9), Actionable Models
+* [James Glynn](https://github.com/jamesglynn), Energy Systems Modelling Analytics
 
 
 ## Acknowledgements
 
-This work was funded by [Actionable Models](https://www.linkedin.com/in/iain-morrow-36b5b9) via the European Digital Innovation Hub [FactoryXChange](https://www.factoryxchange.ie/), 2024-2025. FactoryXChange Reference Number: TICH252172. https://www.factoryxchange.ie/service-page/free-form-regression-modelling.
+This work was funded by Actionable Models via the European Digital Innovation Hub [FactoryXChange](https://www.factoryxchange.ie/), 2024-2025. FactoryXChange Reference Number: TICH252172. https://www.factoryxchange.ie/service-page/free-form-regression-modelling.
 
 
 ## Citation
