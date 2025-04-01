@@ -43,6 +43,7 @@ To cite this research, this repository, or this code, please cite our GECCO 2025
   title={Symbolic Regression for Modelling Decarbonisation Pathways in the Global Energy-Economy-Climate System},
   author={James McDermott and Iain Morrow and James Glynn and Panos Evangelos},
   booktitle={Proceedings of the Companion Conference on Genetic and Evolutionary Computation},
+  doi={https://doi.org/10.1145/3712255.3726704},
   year={2025}
 }
 ```
