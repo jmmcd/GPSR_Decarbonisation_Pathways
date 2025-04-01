@@ -27,7 +27,11 @@ The repository contains data exploration, data cleaning, and regression modellin
 
 ## Acknowledgements
 
-This work was funded by Actionable Models via the European Digital Innovation Hub [FactoryXChange](https://www.factoryxchange.ie/), 2024-2025. FactoryXChange Reference Number: TICH252172. https://www.factoryxchange.ie/service-page/free-form-regression-modelling.
+This work was supported by the European Union under the Digital Europe Programme and co-funded by Enterprise Ireland under the Irish Digital Innovation Hubs (EDIH) initiative as part of the [FactoryXChange](https://www.factoryxchange.ie/) project, 2024-2025.
+
+* Service: https://www.factoryxchange.ie/service-page/free-form-regression-modelling
+* Customer: Actionable Models
+
 
 
 ## Citation
